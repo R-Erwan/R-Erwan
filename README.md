@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Erwan</h1>
 <h3 align="center">A computer science student looking for an apprenticeship for BDIA Masters</h3>
 
-- 🔭 I’m currently working on [HPE servers networks infrastructure](School project Networks & Systems)
+- 🔭 I’m currently working on HPE servers networks infrastructure School project Networks & Systems
 
 - 🌱 I’m currently learning **Spring and Datas concepts**
 
-- 👯 I’m currently working on [Restaurant website](School project in WEB)
+- 👯 I’m currently working on Restaurant website School project in WEB
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
